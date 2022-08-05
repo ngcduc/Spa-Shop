@@ -1,0 +1,70 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 6, 2022, 11:12:13 PM
+    Author     : Le Viet
+*/
+.sanpham{
+    padding-top: 50px;
+    
+}
+.card{
+    box-shadow: rgba(0, 0, 0, 0.2) 1px 1px 7px 7px;
+}
+
+#pagger{
+    text-align: center;
+    margin-bottom: 30px;
+}
+#pagger span{
+    color: red;
+}
+#pagger a{
+    border:1px;
+    border: thick double #32a1ce;
+    margin: 10px;
+    padding: 15px;
+}
+.list-group-item a:hover{
+    color: greenyellow;
+}
+.chitietsanpham{
+    padding-top: 200px;
+    font-family: transform;
+    text-align: center;
+}
+.chitietsanpham h1{
+    color: #78c52d;
+    text-align: center;
+    padding-bottom:50px;
+}
+.chitietsanpham h4{
+    color: red;
+    text-align: center;
+    padding-bottom:70px;
+}
+#button2{
+    margin-left: 50px;
+}
+.sanphamimg img{
+    height: 90%;
+    text-align: center;
+}
+.productname h5{
+    font-family: transform;
+    color:  #55af23;
+    font-weight: 800;
+}
+#price{
+     font-family: transform;
+     color: red;
+     font-weight: 600;
+}
+.giohang{
+    text-align: right;
+    padding-right: 150px;
+    padding-top: 10px;
+}

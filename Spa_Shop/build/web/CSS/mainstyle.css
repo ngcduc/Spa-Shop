@@ -1,0 +1,134 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 16, 2022, 2:07:48 PM
+    Author     : Le Viet
+*/
+.logospa img{
+  max-width: 100px;
+  text-align: center;
+  border-radius:50%;
+}
+.menu ul li {
+    list-style-type: none;
+    padding-top: 40px;
+    padding-right: 30px;
+    color: whitesmoke;
+}
+
+.menu ul li a{
+    color: whitesmoke;
+}
+.menu ul li a:hover{
+    color: #78c52d;
+}
+.header{
+    align-content: center;
+    background: black;
+    font-family: Times New Roman;
+}
+.search{
+    background: black;
+     padding-top: 30px;
+}
+@font-face{
+    src: url('../fonts/VL Ambassador/VLAMBASSADOR.OTF');
+    font-family: 'a';
+}
+#login h1{
+     color: #deb40b;
+     font-family: 'a';
+    text-align: center;
+}
+.carousel-caption h1,p{
+    color: #deb40b;
+    font-family: 'a';
+    text-align: center;
+}
+.gioithieu h1{
+     color: #deb40b;
+    padding-top:20px;
+    font-family: 'a';
+    text-align: center;
+}
+.gioithieu p {
+    font-family: 'a';
+}
+.gioithieu img{
+    max-width: 400px;
+    padding-bottom: 30px;
+}
+.dichvu{
+    background-color: #a5ff4d;
+}
+.datdichvu{
+    font-family: monospace;
+    color: black;
+    padding-top: 100px;
+}
+.footer{
+  background-color:black;
+  text-align: center;
+}
+.footer h1{
+   color: #deb40b;
+    padding-top:20px;
+    font-family: 'a';
+}
+.diachicuoi{
+    color: white;
+}
+.diachicuoi i{
+  color: #3885b5;
+}
+.diachicuoi a{
+    padding-left: 40px;
+}
+.diachicuoi h6{
+    font-family: transform;
+}
+.card{
+    width: 80%;
+}
+#loginsanpham{
+     color: #f57b09;
+    padding-top:20px;
+    font-family: 'a';
+    font-size: 30px;
+    font-weight: 900;
+}
+.sanphammain{
+    background-image: url('../Img/hinhnensanpham.jpg');
+    height: 750px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+#xemthem{
+     font-family: transform;
+      font-size: 50px;
+     font-weight: 900;
+}
+.all span{
+        font-family: 'a';
+        font-size: 30px;
+        font-weight: 900;
+        color: crimson;
+}
+.all h3{
+    font-family: 'a';
+        font-size: 20px;
+        font-weight: 900;
+        color: #f57b09;
+}
+.danhsachdonhang h1{
+    font-family: transform;
+      font-size: 50px;
+     font-weight: 900;
+}
+.danhsachdonhang{
+    padding-top: 50px;
+    padding-bottom: 30px;
+}

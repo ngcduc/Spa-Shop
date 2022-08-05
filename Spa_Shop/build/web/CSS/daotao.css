@@ -1,0 +1,29 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 21, 2022, 12:51:43 AM
+    Author     : Le Viet
+*/
+.all{
+    text-align: center;
+    background-position: center;
+}
+.all p{
+    color: #55af23;
+    font-size: 20px;
+}
+.imagedaotao1{
+    width: 70%;
+    text-align: center;
+}
+.imagedaotao2{
+    width: 70%;
+    text-align: center;
+    padding-top: 30px;
+}
+.cayla{
+    text-align: center;
+}

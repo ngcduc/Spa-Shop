@@ -1,0 +1,44 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 15, 2022, 3:08:40 PM
+    Author     : Le Viet
+*/
+.Login-form {
+  
+  background-color: #5ec229;
+  height: 100vh;
+}
+@font-face{
+    src: url('../fonts/VL Ambassador/VLAMBASSADOR.OTF');
+    font-family: 'a';
+}
+#login h1{
+     color: #deb40b;
+     font-family: 'a';
+     text-align: center;
+     padding-top: 100px;
+}
+#login .container #login-row #login-column #login-box {
+  margin-top: 20px;
+  padding-top: 10px;
+  max-width: 600px;
+  height: 450px;
+  border: 1px solid #9C9C9C;
+  border-radius: 20px;
+  background-color: #EAEAEA;
+  font-family: transform;
+  font-weight: 400;
+}
+#login .container #login-row #login-column #login-box #login-form {
+  padding: 50px;
+}
+#login .container #login-row #login-column #login-box #login-form #register-link {
+  margin-top: -85px;
+}
+.container{
+    text-align: center;
+}

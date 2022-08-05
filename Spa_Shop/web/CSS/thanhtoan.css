@@ -1,0 +1,25 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 13, 2022, 3:23:17 PM
+    Author     : Le Viet
+*/
+.contain{
+    padding-top: 30px;
+    border: 2px;
+}
+
+.thanhtoan h3{
+     padding-top: 50px;
+     text-align: center;
+     font-family: transform;
+     font-weight: 600;
+     padding-bottom: 30px;
+}
+.a{
+    padding-bottom: 30px;
+}
+

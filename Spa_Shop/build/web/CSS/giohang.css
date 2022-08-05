@@ -1,0 +1,22 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 12, 2022, 4:08:28 PM
+    Author     : Le Viet
+*/
+.tableproduct span input{
+    width: 30px;
+    text-align:center;
+}
+.a h4{
+    font-family:  transform;
+    color: red;
+    font-weight: 600;
+    text-align: center;
+    font-size: 50px;
+    padding-top: 50px;
+}
+
